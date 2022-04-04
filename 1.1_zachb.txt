@@ -1,0 +1,14 @@
+https://github.com/tensorflow/tensorflow
+- This repo is interesting becuase it is a platform that allows you to code machine learning, and it has tools and libraries for you to use.
+
+https://github.com/home-assistant
+- This repo is nice becuase it allows you to customize your home devices, and have full controll over the tech in your home, also connecting all of the devices together.
+
+https://github.com/google/material-design-lite
+- This repo allows you to customize a website and give them a more dynamic feel.
+
+https://github.com/google/zx
+- This repo allows for cleaner code scripts, this one is used for java, but it would be a nice additive if you use it as it makes your code look cleaner.
+
+https://github.com/OpenBB-finance/OpenBBTerminal
+- I like this repo becuase it allows for cleaner and more automated reaserch into stocks and crypto, which I like to look at in my free time occasionaly. 
